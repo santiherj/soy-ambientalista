@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Soy Ambientalista Latam//Día del Medio Ambiente//ES
+BEGIN:VEVENT
+UID:1234567890@soyambientalista.org
+DTSTAMP:20240526T123456Z
+DTSTART:20240606T010000Z
+DTEND:20240606T013000Z
+SUMMARY:Día del Medio Ambiente | Soy Ambientalista Latam
+DESCRIPTION:Únete al evento en vivo en conmemoración al Día del Medio Ambiente organizado por Soy Ambientalista Latam.
+LOCATION:Página web: www.soyambientalista.org
+URL:https://www.soyambientalista.org
+END:VEVENT
+END:VCALENDAR
